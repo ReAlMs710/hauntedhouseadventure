@@ -1,3 +1,7 @@
+// Neil Kumaran
+// Haunted House
+// 10/19/24
+// Alblas
 #include <iostream>
 #include <string>
 #include <limits>
